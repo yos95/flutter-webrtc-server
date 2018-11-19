@@ -2,6 +2,6 @@
     "version": 2,
     "name": "nodejs",
     "builds": [
-        { "src": "*.js", "use": "@now/node-server" }
+         { "": "package.json", "use": "@now/next" }
     ]
 }
